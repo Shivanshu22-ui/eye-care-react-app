@@ -13,45 +13,45 @@ const Doctors = () => {
     const docDetails=[
         {
             img:"https://image.freepik.com/free-photo/hospital-healthcare-workers-covid-19-treatment-concept-young-doctor-scrubs-making-daily-errands-clinic-listening-patient-symptoms-look-camera-professional-physician-curing-diseases_1258-57233.jpg",
-            name:"xyz",
-            age:"12",
-            experience:"abvc",
-            specialist:"giguu"
+            name:"Dr.Jeeven Singh",
+            age:"42",
+            experience:"8 yrs.",
+            specialist:"Oththalmologist"
         },
         {
             img:"https://image.freepik.com/free-photo/medical-workers-covid-19-vaccination-concept-confident-professional-doctor-female-nurse-blue-scrubs-stethoscope-show-thumbs-up-assure-guarantee-best-quality-service-clinic_1258-57360.jpg",
-            name:"megha",
-            age:"20",
-            experience:"2",
-            specialist:"xyz"
+            name:"Dr. Meetu Bansal",
+            age:"45",
+            experience:"9 yrs.",
+            specialist:"Oththalmologist"
         },
         {
-            img:"",
-            name:"",
-            age:"",
-            experience:"",
-            specialist:""
+            img:"https://image.freepik.com/free-photo/covid-19-coronavirus-outbreak-healthcare-workers-pandemic-concept-enthusiastic-smiling-male-doctor-glad-help-patients-physician-white-coat-happy-working-clinic-hospital_1258-57450.jpg",
+            name:"Dr. Surabhi Gupta",
+            age:"42",
+            experience:"8 yrs.",
+            specialist:"Optometrist"
         },
         {
-            img:"",
-            name:"",
-            age:"",
-            experience:"",
-            specialist:""
+            img:"https://image.freepik.com/free-photo/portrait-smiling-male-doctor_171337-1532.jpg",
+            name:"Dr. Anup Gulati",
+            age:"40",
+            experience:"6 yrs.",
+            specialist:"Optometrist"
         },
         {
-            img:"",
-            name:"",
-            age:"",
-            experience:"",
-            specialist:""
+            img:"https://image.freepik.com/free-photo/front-view-covid-recovery-center-female-doctor-with-posing-with-stethoscope_23-2148847898.jpg",
+            name:"Dr. Neetu Kumari",
+            age:"41",
+            experience:"7 yrs.",
+            specialist:"Optician"
         },
         {
-            img:"",
-            name:"",
-            age:"",
-            experience:"",
-            specialist:""
+            img:"https://image.freepik.com/free-photo/portrait-successful-mid-adult-doctor-with-crossed-arms_1262-12865.jpg",
+            name:"Dr. Subhash Betharia",
+            age:"39",
+            experience:"6 yrs.",
+            specialist:"Optician"
         }
     ]
     return (
